@@ -13,3 +13,4 @@
 - Xác định IP đang gửi cờ SYN nhiều tới Server: https://gist.github.com/hoangdh/efae37bc983f06c513ee04603cf3d28a
 - Tự động mount và chuyển dữ liệu từ /home sang disk mới: https://gist.github.com/hoangdh/8f442eae8911e31bb9539157cc58a3e6
 - Chặn IP: https://gist.github.com/hoangdh/c294250487d440864f872a252d1c036d
+- Backup tất cả Database của MySQL/MariaDB: https://gist.github.com/hoangdh/818cdc65afd64faab47df3ea9f9f1e25
